@@ -2,7 +2,7 @@
 
 一个只有一个标签页的简易浏览器。
 
-https://github.com/wangying2016/SingleTab_MyBrowser/raw/master/demo.png
+![示例照片](https://github.com/wangying2016/SingleTab_MyBrowser/raw/master/demo.png)
 
 具有以下功能：
 
